@@ -1,6 +1,4 @@
 Dies ist eine README DATEI..
 
-
-edited on remote
-aenderung
+und noch ein pullrequest
 
