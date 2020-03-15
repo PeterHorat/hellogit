@@ -2,5 +2,5 @@ Dies ist eine README DATEI..
 
 
 
-master try und etwas neues
+master try und etwas neues versuchen
 
